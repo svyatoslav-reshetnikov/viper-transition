@@ -1,0 +1,18 @@
+PODS:
+  - GuillotineMenu (3.0)
+  - R.swift (3.2.0):
+    - R.swift.Library (~> 3.0.2)
+  - R.swift.Library (3.0.2)
+
+DEPENDENCIES:
+  - GuillotineMenu (~> 3.0)
+  - R.swift
+
+SPEC CHECKSUMS:
+  GuillotineMenu: 611ccb58ae092f2d929535377570ef25a7b5bc63
+  R.swift: 207a372a2b5977caef440c696a368009460641d1
+  R.swift.Library: fbdec16c9802ad104fc1ba53415dc190e6ec5c73
+
+PODFILE CHECKSUM: 1ecd7613d5cab4c6875b4e9dbbb6f7780fcf4022
+
+COCOAPODS: 1.2.0
